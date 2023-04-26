@@ -14,7 +14,6 @@ const options = {
 };
 
 
-
 export const ApiService = {
     async fetching(url) {
       const responce = await axios.get(`${BASE_URI}/${url}`, options)
