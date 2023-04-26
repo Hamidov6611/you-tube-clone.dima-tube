@@ -13,7 +13,7 @@ a {
   border-bottom: 1px solid #76323f;
 }
 ::-webkit-scrollbar-thumb {
-  background-color: rgba(114, 113, 113);
+  background-color: rgba(114, 113, 113); 
   border-radius: 10px;
   height: 200px;
 }
